@@ -43,4 +43,3 @@ def get_forex(from_currency: str, to_currency: str, amount: float) -> dict:
         "result": result,
     }
 
-print(get_forex("USD", "NPR", 1.0))
