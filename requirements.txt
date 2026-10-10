@@ -1,0 +1,6 @@
+python-dotenv
+pinecone
+google-adk
+litellm
+pymupdf
+groq
